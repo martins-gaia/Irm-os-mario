@@ -157,7 +157,6 @@ p{
 }
 @media(max-width: 1100px){
     
-}
 p {
     display: none;
 
@@ -168,7 +167,6 @@ p {
     justify-content: flex-start;
 }
 .caixa-pricipal{
-    display: flex;
     align-items: center;
     flex-direction: column;
 }
@@ -190,9 +188,15 @@ p {
     font-size: 20px;
 }
 .click-aqui{
-display: flex;
+
+
+
+
 
 }
+
+}
+
 
 
 
